@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496673843527",
+    "project_id": "agenda-1b35f",
+    "storage_bucket": "agenda-1b35f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496673843527:android:ac97a0079038f99faac462",
+        "android_client_info": {
+          "package_name": "com.aguirre.actividad3_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496673843527-c99eap8cj3d396rbbgcee8rso1fklpru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbqpE2pSqz4Sa2GJAIeBiFQR0vawkE4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496673843527-c99eap8cj3d396rbbgcee8rso1fklpru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
